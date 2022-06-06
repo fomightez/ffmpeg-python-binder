@@ -1,3 +1,4 @@
 ffmpeg
 graphviz
 libavcodec-extra
+alsa-utils
