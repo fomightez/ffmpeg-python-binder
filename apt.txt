@@ -2,4 +2,4 @@ ffmpeg
 graphviz
 libavcodec-extra
 alsa-utils
-mono-devel
+mono-complete
